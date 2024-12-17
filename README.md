@@ -1,5 +1,5 @@
 
-<h1 align="center">Всем привет, я <a href="https://daniilshat.ru/" target="_blank">Алексей</a> 
+<h1 align="center">Всем привет, я <a href="https://vk.com/leshka_055" target="_blank">Алексей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Frontend разработчик</h3>
 
