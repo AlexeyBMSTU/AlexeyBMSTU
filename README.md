@@ -1,7 +1,7 @@
 
-<h1 align="center">Всем привет, я <a href="https://vk.com/leshka_055" target="_blank">Алексей</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Frontend разработчик</h3>
+<h1 align="center">Junior Frontend разработчик 🔭</h1> 
+<h3 align="center">Всем привет, я <a href="https://vk.com/leshka_055" target="_blank">Алексей</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 Мне 22 года. Я студент 5 курса МГТУ им. Баумана. Учусь в образовательном центре VK при МГТУ им. Баумана. Подхожу к выполнению дела ответственно. Люблю пельмени
 
 # **Навыки** 
@@ -12,9 +12,9 @@
 - Docker, C/C++, Go, NGINX
 
 # **ПРОЕКТЫ**
-1. PUSHART - продукт, на котором блогеры могут публиковать свой контент и начать монетизировать его. 
-	- Домен
-	- Исходный код
+1. ✨ PUSHART ✨ - продукт, на котором блогеры могут публиковать свой контент и начать монетизировать его
+	- <a href="https://pushart.online" target="_blank">Домен</a>
+	- <a href="" target="_blank">Исходный код</a> 
 
 <!--
 **AlexeyBMSTU/AlexeyBMSTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
