@@ -14,7 +14,7 @@
 # **ПРОЕКТЫ**
 1. ✨ PUSHART ✨ - продукт, на котором блогеры могут публиковать свой контент и начать монетизировать его
 	- <a href="https://pushart.online" target="_blank">Домен</a>
-	- <a href="" target="_blank">Исходный код</a> 
+	- <a href="https://github.com/frontend-park-mail-ru/2024_2_TeamOn" target="_blank">Исходный код</a> 
 
 <!--
 **AlexeyBMSTU/AlexeyBMSTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
