@@ -4,6 +4,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 Мне 22 года. Я студент 5 курса МГТУ им. Баумана. Учусь в образовательном центре VK при МГТУ им. Баумана. Подхожу к выполнению дела ответственно. Люблю пельмени
 
+# **Опыт**
+- 2025 - now: ⚡ **VK Tech**, Frontend developer, Moscow
+
 # **Навыки** 
 - JS, TS, React, HTML, CSS, SCSS
 - FSD, MVC, БЭМ
