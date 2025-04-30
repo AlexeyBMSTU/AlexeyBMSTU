@@ -13,6 +13,7 @@
 - Webpack, Vite
 - VirtualDOM, ShadowDOM, JSX, React hooks
 - Docker, C/C++, Go, NGINX
+- CSP, CSRF, XSS 
 
 # **ПРОЕКТЫ**
 1. ✨ PUSHART ✨ - продукт, на котором блогеры могут публиковать свой контент и начать монетизировать его
