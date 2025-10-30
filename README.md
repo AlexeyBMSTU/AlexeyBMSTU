@@ -4,18 +4,19 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 Мне 23 года. Я студент 6 курса МГТУ им. Баумана. Учился в VK education (бывш. Технопарк) при МГТУ им. Баумана. 
 
-Стремлюсь достичь лучшего во фронтенд разработке. Разрабатываю собственный сервис, который на мой взгляд будет очень полезен
 
 # **Опыт**
 - 2025 - now: ⚡ **VK Tech**, Frontend developer, Moscow
 
 # **Навыки** 
-- JS, TS, React, HTML, CSS, SCSS
+- Архитектурный взгляд с уверенностью масштабирования в будущем
+- Разработка сервисов с нуля «на коленках»
+- JS, TS, React, HTML, CSS, SCSS, Next.js
+- SOLID, KISS, DRY
 - FSD, MVC, БЭМ, FLUX
 - Webpack, Vite
-- VirtualDOM, ShadowDOM, JSX, React hooks, React libraries
-- Docker, C/C++, Go, NGINX
-- CSP, CSRF, XSS, CORS
+- React hooks, React libraries, Framer Motion, GSAP, Swiper
+- Redux (Toolkit), MobX, Zustand
 
 # **ПРОЕКТЫ**
 1. ✨ PUSHART ✨ - продукт, на котором блогеры могут публиковать свой контент и начать монетизировать его. Продукт создавался в связке ванильный **TS** и **Go**. Сборка бекенда была через **Docker**, сборка фронтенда – **Webpack**.  Раздатчик трафика – **NGINX**
