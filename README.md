@@ -6,7 +6,7 @@
 
 
 # **Опыт**
-- 2025 - now: ⚡ **VK Tech**, Frontend developer, Moscow
+-⚡ **VK Tech**, Frontend developer, Moscow
 
 # **Навыки** 
 - Архитектурный взгляд с уверенностью масштабирования в будущем
