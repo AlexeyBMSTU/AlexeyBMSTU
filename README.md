@@ -6,15 +6,7 @@
 # **Опыт**
 ⚡ **VK Tech**, Frontend developer, Moscow
 
-# **Навыки** 
-- JS, TS, React, HTML, CSS, SCSS, Next.js
-- SOLID, KISS, DRY
-- FSD, MVC, БЭМ, FLUX
-- Webpack, Vite
-- React hooks, React libraries, Framer Motion, GSAP, Swiper
-- Redux (Toolkit), MobX, Zustand
-
-# **ПРОЕКТЫ**
+# **Проекты**
 1. ✨ PUSHART ✨ - продукт, на котором блогеры могут публиковать свой контент и начать монетизировать его. Продукт создавался в связке ванильный **TS** и **Go**. Сборка бекенда была через **Docker**, сборка фронтенда – **Webpack**.  Раздатчик трафика – **NGINX**
 	- <a href="https://pushart.online" target="_blank">Домен</a>
 	- <a href="https://github.com/frontend-park-mail-ru/2024_2_TeamOn" target="_blank">Исходный код</a>
