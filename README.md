@@ -1,4 +1,10 @@
-## Hi there 👋
+
+<h1 align="center">Разработчик 🔭</h1> 
+<h3 align="center">Всем привет, я <a href="https://vk.com/leshka_055" target="_blank">Алексей</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
+
+# **Опыт**
+⚡ **VK Tech**, Developer, Moscow
 
 <!--
 **AlexeyBMSTU/AlexeyBMSTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
